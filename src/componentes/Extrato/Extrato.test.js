@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import Extrato from './index'
 
-test('must render transaction list', () => {
+it('must render transaction list', () => {
     const transactions = [
         {
             transacao: 'Depósito',
