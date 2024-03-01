@@ -1,3 +1,7 @@
+# Curso: React JS: crie testes com Jest e Testing Library e garanta o funcionamento do Front-end
+
+[https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end](https://cursos.alura.com.br/course/react-js-testes-automatizados-front-end) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
